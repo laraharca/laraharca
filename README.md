@@ -2,7 +2,7 @@
 
 **`Desenvolvedora de Software`**
 
-Me chamo Larah Arca, tenho 23 anos e sou natural do Rio de Janeiro. Sou estudante de Engenharia de Software na Universidade Cruzeiro do Sul, atualmente no 5° período. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no LinkedIn [Larah Arca](https://www.linkedin.com/in/larah-arca/).
+Me chamo Larah Arca, tenho 24 anos e sou natural do Rio de Janeiro. Sou estudante de Engenharia de Software na Universidade Cruzeiro do Sul, atualmente no 5° período. Sou apaixonada por tecnologia e compartilho meu conhecimento através do meu perfil no LinkedIn [Larah Arca](https://www.linkedin.com/in/larah-arca/).
 
 <p align="left">
     <a href="https://github.com/@laraharca?tab=repositories&sort=stargazers">
